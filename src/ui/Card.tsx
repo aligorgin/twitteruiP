@@ -24,7 +24,7 @@ export function Card() {
                 <div className='grid grid-cols-4'>
                         <TweetAction icon={ReplyIcon} count={5}/>
                         <TweetAction icon={SwitchHorizontalIcon} count={10} color='green'/>
-                        <TweetAction icon={HeartIcon} color='red' count={15}/>
+                        <TweetAction icon={HeartIcon} color='red' count={17}/>
                         <TweetAction icon={ShareIcon} />
                 </div>
             </div>
